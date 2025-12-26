@@ -167,3 +167,7 @@ Developer: M V Karthikeya
 📧 Email: mvkarthikeya2005@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/mv-karthikeya-b26a2131b
+
+📜 License
+
+This project is licensed under the MIT License.
