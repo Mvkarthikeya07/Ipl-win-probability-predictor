@@ -143,17 +143,25 @@ Ensure the following files are included in your deployment package:
 ✔ encoders.pkl
 ✔ requirements.txt
 
-🏆 Internship
+🏢 Internship Context
 
-This project was created as part of my AI/ML Internship at InternPe, focusing on:
+This project was developed during my AI/ML Internship at InternPe.
 
-Real-time prediction systems
+The work focused on applying practical machine learning and deployment concepts, including:
 
-Flask-based deployment
+Feature engineering from real-world datasets
 
-Model integration
+Supervised classification using Random Forest models
 
-Clean user interface design
+Backend development using Flask
+
+Real-time ML model integration
+
+Data-driven decision systems for live prediction scenarios
+
+Clean UI design for interpretability and usability
+
+This project represents academic and practical work completed during the internship period, demonstrating the application of machine learning to real-time sports analytics problems.
 
 🤝 Contributing
 
