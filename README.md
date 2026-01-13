@@ -1,4 +1,5 @@
-🏏 Match Outcome Probability Prediction Using Machine Learning (IPL Case Study)
+🏏 Probabilistic Match Outcome Prediction in IPL Cricket Using Supervised Machine Learning Models
+
 <p align="left"> <img src="https://img.shields.io/badge/Project-ML%20Web%20App-blue.svg" /> <img src="https://img.shields.io/badge/Framework-Flask-green.svg" /> <img src="https://img.shields.io/badge/Language-Python%203.10-orange.svg" /> <img src="https://img.shields.io/badge/Status-Active-success.svg" /> </p>
 📌 Overview
 
